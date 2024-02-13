@@ -1,0 +1,9 @@
+* text=auto eol=lf
+
+*.yml diff=yml
+*.md diff=markdown
+
+.gitignore export-ignore
+.gitattributes export-ignore
+README.md export-ignore
+LICENSE.md export-ignore
