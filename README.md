@@ -1,4 +1,4 @@
-# zuma/dockr-forge
+# zumacore/dockr-forge
 
 `dockr-forge` is a simple package to install [Traefik Proxy](https://traefik.io/traefik) on a standalone [Laravel Forge](https://forge.laravel.com) Worker server in order to route domains and/or sub-domains to Docker containers.
 
@@ -92,4 +92,4 @@ Next go to the url you set in the `env` as `DASHBOARD_HOST` and you should be pr
 
 Best of luck!
 
-Thanks to [Joao Patricio](https://github.com/ijpatricio) and [this great article](https://blog.jpat.dev/how-to-deploy-docker-applications-with-laravel-forge) along with the [original repo](https://github.com/ijpatricio/traefik-for-forge) used to create `zuma/dockr-forge`
+Thanks to [Joao Patricio](https://github.com/ijpatricio) and [this great article](https://blog.jpat.dev/how-to-deploy-docker-applications-with-laravel-forge) along with the [original repo](https://github.com/ijpatricio/traefik-for-forge) used to create `zumacore/dockr-forge`
